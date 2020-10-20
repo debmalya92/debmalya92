@@ -1,5 +1,5 @@
 ### Hi there 👋🏻 
-I'm a Electronics and Communication Engineering Graduate of 2015 batch. I have completed PG Diploma certification in Machine Learning & Artificial Intelligence from IIIT Bangalore and UpGrad at 2020. I come with an extensive experience of working with different technologies including UI Automation, Automation Testing, Data Science, Machine Learning and Deep Learning.
+I'm a Electronics and Communication Engineering Graduate of 2015 batch. I have completed PG Diploma certification in Machine Learning & Artificial Intelligence from IIIT Bangalore and UpGrad in 2020. I come with an extensive experience of working with different technologies including UI Automation, Automation Testing, Data Science, Machine Learning and Deep Learning.
 
 In the past, I have worked with [**Cognizant**](https://www.cognizant.com/) as Automation Engineer and currently working at [**Deloitte**](https://www2.deloitte.com/us/en.html) as a Consultant and Data Analyst. 
 
@@ -17,4 +17,4 @@ Currently, I am looking for a full-time role in Data Science, Machine Learning o
 ### How to reach me 📱
 Known on internet as [**Debmalya Ghosal**]
 
-[<img target="_blank" src="https://img.icons8.com/cotton/64/000000/whatsapp--v4.png"/>](https://wa.me/8768448974) [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/debmalya-ghosal/) [<img target="_blank" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=40&h=40"/>](https://www.facebook.com/debmalya.ghoshal)
+[<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/40px-WhatsApp.svg.png"/>](https://wa.me/8768448974)&nbsp;&nbsp; [<img target="_blank" src="https://icon-icons.com/icons2/272/PNG/48/Gmail_29991.png"/>](mailto:debghosal92@gmail.com?)&nbsp;&nbsp; [<img target="_blank" src="https://icon-icons.com/icons2/1269/PNG/48/1497553283-108_84845.png"/>](https://www.linkedin.com/in/debmalya-ghosal/)&nbsp;&nbsp; [<img target="_blank" src="https://facebookbrand.com/wp-content/uploads/2019/04/f_logo_RGB-Hex-Blue_512.png?w=40&h=40"/>](https://www.facebook.com/debmalya.ghoshal)
